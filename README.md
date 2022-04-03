@@ -3,7 +3,7 @@
 Welcome to my repository. In this repository I upload various personal projects. I also upload various of my learning progress here. Please check some of my latest projects below.
 
 #### 📢 Check my latest personal projects :
-    No open source projects available yet.
+    No personal projects available yet.
 
 #### 📢 Want to say hello? Contact me below :
 - Linkedin : [Ilham Fadli](https://www.linkedin.com/in/ilhamfadli)
