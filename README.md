@@ -5,10 +5,6 @@
 #### 📢 Check latest projects :
 `No Projects`
 
-#### 📢 Want to say hello? Contact us below :
-- Email : ilhamfadli.mail@gmail.com
-- Telegram : [@Void](t.me/thev0idx)
-
 #### 📢 Want to support?
 - ETH / MATIC / BNB : 0x3E6c48937474e86BD26778EBF22E69b75632a592
 - BTC : bc1q82w33wyjn8vs3pld5wy66tfj6zwae0ea7htzpz
