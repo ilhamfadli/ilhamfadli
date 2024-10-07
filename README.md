@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello 👋
 
-<!--
-**ilhamfadli/ilhamfadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer who loves building user-friendly applications. Passionate about web development and exploring the potential of blockchain technology. Check out my projects, and feel free to reach out for collaboration or just to chat about tech!
 
-Here are some ideas to get you started:
+#### 📢 Check latest projects :
+`No Projects`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📢 Want to say hello? Contact us below :
+- Email : ilhamfadli.mail@gmail.com
+- Telegram : [@Void](t.me/thev0idx)
+
+#### 📢 Want to support?
+- ETH / MATIC / BNB : 0x3E6c48937474e86BD26778EBF22E69b75632a592
+- BTC : bc1q82w33wyjn8vs3pld5wy66tfj6zwae0ea7htzpz
+- SOL : 3qS2qbAiyL5VEK5fuD6U8eQKB3J95T4wP3nydbwEjcS8
